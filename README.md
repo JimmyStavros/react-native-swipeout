@@ -1,5 +1,4 @@
-Note: The fork has been deprecated, because I am one of collaborators to [dancormier/react-native-swipeout](https://github.com/dancormier/react-native-swipeout).
----
+
 forked from [dancormier/react-native-swipeout](https://github.com/dancormier/react-native-swipeout), fixed bugs and republished
 ---
 
